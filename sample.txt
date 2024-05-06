@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 kjnkj
 kjbj
 kjb
 kjb
 kjb
 kjb
+=======
+nec
+jd
+ej
+d
+jbd
+khbd
+
+>>>>>>> vikas
