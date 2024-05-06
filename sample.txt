@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kjnkj
 kjbj
 kjb
@@ -8,7 +9,17 @@ kjb
 =======
 nec
 jd
+=======
+>>>>>>> vikas
 ej
+dkjn
+lklfkn
+kjbd
+jdf
+j
+kjbv
+dsj
+jv
 d
 jbd
 khbd
